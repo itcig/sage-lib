@@ -1,8 +1,8 @@
 {
   "name": "itcig/sage-lib",
-  "version": "9.0.9",
+  "version": "9.0.10",
   "license": "MIT",
-  "description": "Library files for Sage Starter Theme",
+  "description": "Library files for ITCIG's Sage Themes",
   "homepage": "https://github.com/itcig/sage-lib",
   "authors": [
     {
