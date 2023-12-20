@@ -1,8 +1,9 @@
 {
-  "name": "roots/sage-lib",
+  "name": "itcig/sage-lib",
+  "version": "9.0.9",
   "license": "MIT",
   "description": "Library files for Sage Starter Theme",
-  "homepage": "https://roots.io/sage/",
+  "homepage": "https://github.com/itcig/sage-lib",
   "authors": [
     {
       "name": "QWp6t",
@@ -13,14 +14,18 @@
       "name": "Ben Word",
       "email": "ben@benword.com",
       "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Hunter Rancourt",
+      "email": "hrancourt@capinfogroup.com",
+      "homepage": "https://github.com/skwid138"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage-lib/issues",
-    "forum": "https://discourse.roots.io/"
+    "issues": "https://github.com/itcig/sage-lib/issues"
   },
   "config": {
     "allow-plugins": {
